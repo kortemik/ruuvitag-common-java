@@ -12,7 +12,7 @@ Do note that this library is still being developed so comments, suggestions and 
 <repositories>
     <repository>
         <id>ruuvitag-common-java-mvn-repo</id>
-        <url>https://raw.github.com/Scrin/ruuvitag-common-java/mvn-repo/</url>
+        <url>https://raw.github.com/kortemik/ruuvitag-common-java/mvn-repo/</url>
         <snapshots>
             <enabled>true</enabled>
             <updatePolicy>always</updatePolicy>
